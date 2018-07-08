@@ -1,0 +1,8 @@
+*.iws
+*.iml
+*.ipr
+.allure
+.idea
+/allure-results/
+/build/
+/target
